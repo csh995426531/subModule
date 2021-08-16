@@ -1,6 +1,7 @@
 [submodule "userApi"]
 	path = userApi
 	url = git@github.com:csh995426531/userApi.git
+	branch = main
 [submodule "userRpc"]
 	path = userRpc
 	url = git@github.com:csh995426531/userRpc.git
